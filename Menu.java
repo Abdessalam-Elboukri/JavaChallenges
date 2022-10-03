@@ -5,8 +5,6 @@ public class Menu {
     public static String symbol;
     public static int line; 
 
-    // static Logic l = new Logic();
-
     public static void PrintPyramid(){
         Scanner sc=new Scanner(System.in);
         Menu m = new Menu();
